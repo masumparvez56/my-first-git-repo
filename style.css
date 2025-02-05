@@ -5,8 +5,13 @@
 div{
     background-color: rgb(231, 105, 105);
     padding: 10px;
+    margin: 5px;
 }
 
 p{
     color: blue;
+}
+.images{
+    height: 150px;
+    width: 80px;
 }
