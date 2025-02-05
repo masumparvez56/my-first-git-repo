@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+
+div{
+    background-color: rgb(231, 105, 105);
+    padding: 10px;
+}
+
+p{
+    color: blue;
+}
